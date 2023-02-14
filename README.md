@@ -15,3 +15,8 @@ Lösenord: demo123
 
 Mail: demo2@demo.com
 Lösenord: demo123
+
+
+Mail: demo1@demo.com Password: demo123
+
+Mail: demo2@demo.com Password: demo123
